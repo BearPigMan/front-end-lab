@@ -6,7 +6,7 @@ const getBooks = ()=>{
     url:"https://wdi-library.herokuapp.com/books",
     method: "GET"
   });
-}
+};
 
 
-module.exports = {getBooks}
+module.exports = {getBooks};
