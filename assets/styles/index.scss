@@ -1,2 +1,10 @@
 $icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';
 @import '~bootstrap-sass/assets/stylesheets/bootstrap';
+
+.btn-container {
+  background-color: red;
+  height: 50px;
+  width: 50px;
+  padding-left: 45%;
+  padding-top: 20px;
+}
